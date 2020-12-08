@@ -1,15 +1,13 @@
-// Specific CSS for your home-page
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #212331;
+  overflow: hidden;
+}
 canvas {
   position: absolute;
   top: 0;
   left: 0;
 }
 
-.banner-home {
-  width: 100%;
-  height: 800px;
-}
 
-.banner-home h1 {
-  text-align: center;
-}
